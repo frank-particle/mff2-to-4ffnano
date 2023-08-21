@@ -1,0 +1,1 @@
+change eSIM direction to left exit for B5-SoM
